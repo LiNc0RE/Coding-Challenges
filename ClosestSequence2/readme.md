@@ -1,3 +1,4 @@
+#Closest Sequence 2 Challenge
 Source for challenge: https://codefights.com/challenge/Qjts7cukDvYpDW4Bc
 Challenge was:
 
@@ -30,3 +31,10 @@ a.length ≤ b.length ≤ 1000,
 -1000 ≤ b[i] ≤ 1000.
 
 [output] integer
+
+##Result:
+10/10
+All tests passed
+Sample tests: 5/5
+Hidden tests: 5/5
+Score: 300/300
