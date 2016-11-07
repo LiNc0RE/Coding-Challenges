@@ -1,5 +1,6 @@
 #Closest Sequence 2 Challenge
 Source for challenge: https://codefights.com/challenge/Qjts7cukDvYpDW4Bc
+
 Challenge was:
 
 The difference between two sequences of the same length a1, a2, a3,..., an and b1, b2, b3,..., bn can be defined as the sum of absolute differences between their respective elements:
@@ -35,6 +36,9 @@ a.length ≤ b.length ≤ 1000,
 ##Result:
 10/10
 All tests passed
+
 Sample tests: 5/5
+
 Hidden tests: 5/5
+
 Score: 300/300
