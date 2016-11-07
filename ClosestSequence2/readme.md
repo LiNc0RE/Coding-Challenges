@@ -1,3 +1,6 @@
+Source for challenge: https://codefights.com/challenge/Qjts7cukDvYpDW4Bc
+Challenge was:
+
 The difference between two sequences of the same length a1, a2, a3,..., an and b1, b2, b3,..., bn can be defined as the sum of absolute differences between their respective elements:
 
 diff(a, b) = |a1 - b1| + |a2 - b2| + ... + |an - bn|.
@@ -17,13 +20,13 @@ Input/Output
 [input] array.integer a
 
 Constraints:
-3 = a.length = 1000,
--1000 = a[i] = 1000.
+3 ≤ a.length ≤ 1000,
+-1000 ≤ a[i] ≤ 1000.
 
 [input] array.integer b
 
 Constraints:
-a.length = b.length = 1000,
--1000 = b[i] = 1000.
+a.length ≤ b.length ≤ 1000,
+-1000 ≤ b[i] ≤ 1000.
 
 [output] integer
